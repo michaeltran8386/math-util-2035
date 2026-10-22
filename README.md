@@ -1,4 +1,4 @@
-[![Math Utility Project (CI included) | © 2026 by giáo.làng](https://github.com/doit-now/math-util-2035/actions/workflows/ci-script.yml/badge.svg)](https://github.com/doit-now/math-util-2035/actions/workflows/ci-script.yml)
+[![Math Utility Project (CI included) | © 2026 by michael.tran](https://github.com/doit-now/math-util-2035/actions/workflows/ci-script.yml/badge.svg)](https://github.com/doit-now/math-util-2035/actions/workflows/ci-script.yml)
 
 # Welcome to Math Utility
 
@@ -10,6 +10,6 @@
 ### Screen-shots
 ![JUnit with TDD, DDT](https://github.com/doit-now/math-util-2035/blob/main/screen-shots/DDT%20with%20JUnit.png)
 
-#### Connect me via: hoangnt20@fe.edu.vn
+#### Connect me via: datthanh4177@gmail.com 
 
-##### &#169; 2026 - giáo.làng   
+##### &#169; 2026 - michael.tran
