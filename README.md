@@ -1,4 +1,4 @@
-[![Math Utility Project (CI included) | © 2026 by michael.tran](https://github.com/doit-now/math-util-2035/actions/workflows/ci-script.yml/badge.svg)](https://github.com/doit-now/math-util-2035/actions/workflows/ci-script.yml)
+[![Math Utility Project (CI included) | © 2026 by michael.tran](https://github.com/doit-now/math-util-2035/actions/workflows/ci-script.yml/badge.svg)](https://github.com/michaeltran8385/math-util-2035/actions/workflows/ci-script.yml)
 
 # Welcome to Math Utility
 
