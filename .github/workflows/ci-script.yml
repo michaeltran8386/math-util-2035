@@ -1,6 +1,6 @@
 # =====================================================================
 #  MATH UTILITY PROJECT - CI PIPELINE
-#  © 2026 by giáo.làng
+#  © 2026 by michael.tran
 # ---------------------------------------------------------------------
 #  Mục đích: Tự động build + test project Java/Maven mỗi khi có code
 #            được push lên nhánh main hoặc có Pull Request vào main.
@@ -11,7 +11,7 @@
 #   3. Cách dùng biến môi trường ${{ ... }} của GitHub
 # =====================================================================
 
-name: Math Utility Project (CI included) | © 2026 by giáo.làng
+name: Math Utility Project (CI included) | © 2026 by michael.tran
 # ↑ Tên hiển thị trên tab "Actions" của GitHub UI
 
 

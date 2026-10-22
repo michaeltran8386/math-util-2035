@@ -1,8 +1,8 @@
-package com.giaolang.mathutil.core;
+package com.michaeltran.mathutil.core;
 
 import org.junit.jupiter.api.Test;
 
-import static com.giaolang.mathutil.core.MathUtil.getFactorial;
+import static com.michaeltran.mathutil.core.MathUtil.getFactorial;
 import static org.junit.jupiter.api.Assertions.*;
 
 class MathUtilTest {

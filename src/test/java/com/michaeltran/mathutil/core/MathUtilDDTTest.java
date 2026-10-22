@@ -1,4 +1,4 @@
-package com.giaolang.mathutil.core;
+package com.michaeltran.mathutil.core;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;

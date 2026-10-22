@@ -1,6 +1,6 @@
-package com.giaolang.mathutil;
+package com.michaeltran.mathutil;
 
-import com.giaolang.mathutil.core.MathUtil;
+import com.michaeltran.mathutil.core.MathUtil;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.

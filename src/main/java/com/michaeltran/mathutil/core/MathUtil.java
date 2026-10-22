@@ -1,4 +1,4 @@
-package com.giaolang.mathutil.core;
+package com.michaeltran.mathutil.core;
 
 public class MathUtil {
     public static long getFactorial(int n) {
